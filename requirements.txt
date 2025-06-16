@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+gutenberg-cleaner
+nltk
+markovify
+pyperclip
